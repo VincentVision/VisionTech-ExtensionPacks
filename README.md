@@ -1,4 +1,4 @@
-# Pack d'extension Vision Tech Gyver
+# Pack d'extensions Vision Tech Gyver
 
 Vous trouverez dans ce pack les extensions utilisées par Vincent Vision dans ses [vidéos](https://www.youtube.com/channel/UC0obaoAHO-BMgIXGjGoZHOA) ainsi qu'une sélection de thèmes et d'icones pour VS Code.
 
