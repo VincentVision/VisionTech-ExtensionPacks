@@ -63,3 +63,6 @@ Vous trouverez dans ce pack les extensions utilisées par Vincent Vision dans se
 
 »-> [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - Icônes pour Visual Studio Code.
+
+# License
+[VVS](https://github.com/VincentVision/VisionTech-ExtensionPacks/blob/main/LICENSE)
