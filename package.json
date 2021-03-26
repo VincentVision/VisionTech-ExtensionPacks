@@ -1,0 +1,50 @@
+{
+    "name": "vtep",
+    "displayName": "VisionTech ExtensionPacks",
+    "publisher": "VincentVision",
+    "description": "Pack d'extension, thème et icônes Vision Tech Gyver.",
+    "version": "1.0.0",
+    "license": "VVS",
+    "galleryBanner": {
+        "color" : "#3366FF",
+        "theme": "dark"
+    },
+    "homepage": "https://www.youtube.com/channel/UC0obaoAHO-BMgIXGjGoZHOA",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VincentVision/VisionTech-ExtensionPacks.git"
+    },
+    "bugs": {
+        "url": "https://github.com/VincentVision/VisionTech-ExtensionPacks/issues"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "Vision Tech Gyver",
+        "Vincent Vision Studio",
+        "vtep",
+        "vt ep",
+        "bot discord pack"
+    ],
+    "extensionPack": [ 
+        "VisualStudioExptTeam.vscodeintellicode",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "eriklynd.json-tools",
+        "aaron-bond.better-comments",
+        "usernamehw.errorlens",
+        "bierner.emojisense",
+        "lihui.vs-color-picker",
+        "VinceSalvino.dark-plus-black",
+        "cmckni3.dark-plus-mono",
+        "BernardoReis.dark-optimized",
+        "PKief.material-icon-theme",
+        "be5invis.vscode-icontheme-nomo-dark",
+        "emmanuelbeziat.vscode-great-icons",
+        "vscode-icons-team.vscode-icons"    
+    ]
+}
