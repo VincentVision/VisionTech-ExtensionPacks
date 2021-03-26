@@ -1,6 +1,6 @@
 # Change Log
 
-# [Release 1.0.0] 31 Mars 2021
+## [Release 1.0.0] 31 Mars 2021
 Release Initial, création de l'extension et ajout des extensions suivantes :
 - Visual Studio IntelliCode
 - Bracket Pair Colorizer 
